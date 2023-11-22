@@ -3,7 +3,7 @@ from turtle import *
 pensize(2)
 speed('fastest')
 bgcolor('black')
-pencolor('red')
+pencolor('yellow')
 width(2)
 for i in range(6):
     lt(60)
